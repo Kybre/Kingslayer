@@ -1,0 +1,30 @@
+Queen Attacks:
+
+Phase 1:
+
+Single homing projectiles [x]
+
+Slow persisting projectiles
+
+8 cardinal directions [x]
+
+Phase 2:
+
+Spiral orbit out [x]
+
+Spiral orbit in [x]
+
+Phase 3:
+
+Orbs that fire lines at the player [x]
+
+Orbs that fire lines horizontally then vertically [x]
+
+Phase 4:
+
+Moving Horizontal lazer [x]
+
+Spaced Vertical lasers [x]
+
+Horizontal rain [x]
+

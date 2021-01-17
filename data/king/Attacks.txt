@@ -1,0 +1,19 @@
+King Attacks:
+
+- Phase 1:
+    - Triple Homing Shot
+    - Projectiles From Above
+    - Large Wave
+
+- Phase 2:
+    - Projectiles bursting from projectiles
+    - Growing Projectile
+
+- Phase 3:
+    - Converging Vertical Lasers
+    - Diverging Vertical Lasers
+    - Large Vertical Projectile
+
+- Phase 4:
+    - Floor Burst
+    - Cross Lasers
